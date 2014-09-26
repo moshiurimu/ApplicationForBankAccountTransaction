@@ -1,0 +1,9 @@
+G:\Moshiur\BankingApp\BankingApp\bin\Debug\BankingApp.exe.config
+G:\Moshiur\BankingApp\BankingApp\bin\Debug\BankingApp.exe
+G:\Moshiur\BankingApp\BankingApp\bin\Debug\BankingApp.pdb
+G:\Moshiur\BankingApp\BankingApp\obj\Debug\BankingApp.csprojResolveAssemblyReference.cache
+G:\Moshiur\BankingApp\BankingApp\obj\Debug\BankingApp.BanknigUI.resources
+G:\Moshiur\BankingApp\BankingApp\obj\Debug\BankingApp.Properties.Resources.resources
+G:\Moshiur\BankingApp\BankingApp\obj\Debug\BankingApp.csproj.GenerateResource.Cache
+G:\Moshiur\BankingApp\BankingApp\obj\Debug\BankingApp.exe
+G:\Moshiur\BankingApp\BankingApp\obj\Debug\BankingApp.pdb
